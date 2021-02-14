@@ -58,7 +58,7 @@ F 3 "" H 6550 7450 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L _reviung-kbd:ProMicro_r U1
+L reviung34-split-L-rescue:ProMicro_r-_reviung-kbd U1
 U 1 1 5D6627A3
 P 1500 5700
 F 0 "U1" H 1550 6687 60  0000 C CNN
@@ -143,12 +143,12 @@ NoConn ~ 2250 6100
 Text GLabel 850  5200 0    50   Input ~ 0
 reset
 $Comp
-L _reviung-kbd:SW_PUSH SW1
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW1
 U 1 1 5D666A9D
 P 1300 1650
 F 0 "SW1" H 1300 1905 50  0000 C CNN
 F 1 "SW_PUSH" H 1300 1814 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-NoLED" H 1300 1650 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 1300 1650 50  0001 C CNN
 F 3 "" H 1300 1650 50  0000 C CNN
 	1    1300 1650
 	1    0    0    -1  
@@ -165,12 +165,12 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1600 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW2
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW2
 U 1 1 5D669A0F
 P 2300 1650
 F 0 "SW2" H 2300 1905 50  0000 C CNN
 F 1 "SW_PUSH" H 2300 1814 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-NoLED" H 2300 1650 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 2300 1650 50  0001 C CNN
 F 3 "" H 2300 1650 50  0000 C CNN
 	1    2300 1650
 	1    0    0    -1  
@@ -187,12 +187,12 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2600 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW3
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW3
 U 1 1 5D6774E0
 P 3300 1650
 F 0 "SW3" H 3300 1905 50  0000 C CNN
 F 1 "SW_PUSH" H 3300 1814 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-NoLED" H 3300 1650 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 3300 1650 50  0001 C CNN
 F 3 "" H 3300 1650 50  0000 C CNN
 	1    3300 1650
 	1    0    0    -1  
@@ -209,12 +209,12 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3600 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW4
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW4
 U 1 1 5D6774EC
 P 4300 1650
 F 0 "SW4" H 4300 1905 50  0000 C CNN
 F 1 "SW_PUSH" H 4300 1814 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-NoLED" H 4300 1650 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 4300 1650 50  0001 C CNN
 F 3 "" H 4300 1650 50  0000 C CNN
 	1    4300 1650
 	1    0    0    -1  
@@ -231,12 +231,12 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4600 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW5
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW5
 U 1 1 5D67921D
 P 5300 1650
 F 0 "SW5" H 5300 1905 50  0000 C CNN
 F 1 "SW_PUSH" H 5300 1814 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-NoLED" H 5300 1650 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 5300 1650 50  0001 C CNN
 F 3 "" H 5300 1650 50  0000 C CNN
 	1    5300 1650
 	1    0    0    -1  
@@ -253,12 +253,12 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5600 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW6
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW6
 U 1 1 5D68BEE1
 P 1300 2300
 F 0 "SW6" H 1300 2555 50  0000 C CNN
 F 1 "SW_PUSH" H 1300 2464 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-NoLED" H 1300 2300 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 1300 2300 50  0001 C CNN
 F 3 "" H 1300 2300 50  0000 C CNN
 	1    1300 2300
 	1    0    0    -1  
@@ -275,12 +275,12 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1600 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW7
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW7
 U 1 1 5D68BEED
 P 2300 2300
 F 0 "SW7" H 2300 2555 50  0000 C CNN
 F 1 "SW_PUSH" H 2300 2464 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-NoLED" H 2300 2300 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 2300 2300 50  0001 C CNN
 F 3 "" H 2300 2300 50  0000 C CNN
 	1    2300 2300
 	1    0    0    -1  
@@ -297,12 +297,12 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2600 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW8
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW8
 U 1 1 5D68BEF9
 P 3300 2300
 F 0 "SW8" H 3300 2555 50  0000 C CNN
 F 1 "SW_PUSH" H 3300 2464 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-NoLED" H 3300 2300 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 3300 2300 50  0001 C CNN
 F 3 "" H 3300 2300 50  0000 C CNN
 	1    3300 2300
 	1    0    0    -1  
@@ -319,12 +319,12 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3600 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW9
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW9
 U 1 1 5D68BF05
 P 4300 2300
 F 0 "SW9" H 4300 2555 50  0000 C CNN
 F 1 "SW_PUSH" H 4300 2464 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-NoLED" H 4300 2300 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 4300 2300 50  0001 C CNN
 F 3 "" H 4300 2300 50  0000 C CNN
 	1    4300 2300
 	1    0    0    -1  
@@ -341,12 +341,12 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4600 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW10
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW10
 U 1 1 5D68BF11
 P 5300 2300
 F 0 "SW10" H 5300 2555 50  0000 C CNN
 F 1 "SW_PUSH" H 5300 2464 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-NoLED" H 5300 2300 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 5300 2300 50  0001 C CNN
 F 3 "" H 5300 2300 50  0000 C CNN
 	1    5300 2300
 	1    0    0    -1  
@@ -363,12 +363,12 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5600 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW11
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW11
 U 1 1 5D68DF6C
 P 1300 2950
 F 0 "SW11" H 1300 3205 50  0000 C CNN
 F 1 "SW_PUSH" H 1300 3114 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-NoLED" H 1300 2950 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 1300 2950 50  0001 C CNN
 F 3 "" H 1300 2950 50  0000 C CNN
 	1    1300 2950
 	1    0    0    -1  
@@ -385,12 +385,12 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1600 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW12
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW12
 U 1 1 5D68DF78
 P 2300 2950
 F 0 "SW12" H 2300 3205 50  0000 C CNN
 F 1 "SW_PUSH" H 2300 3114 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-NoLED" H 2300 2950 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 2300 2950 50  0001 C CNN
 F 3 "" H 2300 2950 50  0000 C CNN
 	1    2300 2950
 	1    0    0    -1  
@@ -407,12 +407,12 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2600 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW13
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW13
 U 1 1 5D68DF84
 P 3300 2950
 F 0 "SW13" H 3300 3205 50  0000 C CNN
 F 1 "SW_PUSH" H 3300 3114 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-NoLED" H 3300 2950 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 3300 2950 50  0001 C CNN
 F 3 "" H 3300 2950 50  0000 C CNN
 	1    3300 2950
 	1    0    0    -1  
@@ -429,12 +429,12 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3600 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW14
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW14
 U 1 1 5D68DF90
 P 4300 2950
 F 0 "SW14" H 4300 3205 50  0000 C CNN
 F 1 "SW_PUSH" H 4300 3114 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-NoLED" H 4300 2950 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 4300 2950 50  0001 C CNN
 F 3 "" H 4300 2950 50  0000 C CNN
 	1    4300 2950
 	1    0    0    -1  
@@ -451,12 +451,12 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4600 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW15
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW15
 U 1 1 5D68DF9C
 P 5300 2950
 F 0 "SW15" H 5300 3205 50  0000 C CNN
 F 1 "SW_PUSH" H 5300 3114 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-NoLED" H 5300 2950 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 5300 2950 50  0001 C CNN
 F 3 "" H 5300 2950 50  0000 C CNN
 	1    5300 2950
 	1    0    0    -1  
@@ -473,12 +473,12 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5600 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW16
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW16
 U 1 1 5D68FF07
 P 3300 3600
 F 0 "SW16" H 3300 3855 50  0000 C CNN
 F 1 "SW_PUSH" H 3300 3764 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-NoLED" H 3300 3600 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 3300 3600 50  0001 C CNN
 F 3 "" H 3300 3600 50  0000 C CNN
 	1    3300 3600
 	1    0    0    -1  
@@ -495,12 +495,12 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3600 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW17
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW17
 U 1 1 5D68FF13
 P 4300 3600
 F 0 "SW17" H 4300 3855 50  0000 C CNN
 F 1 "SW_PUSH" H 4300 3764 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-5pinRcut" H 4300 3600 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 4300 3600 50  0001 C CNN
 F 3 "" H 4300 3600 50  0000 C CNN
 	1    4300 3600
 	1    0    0    -1  
@@ -517,12 +517,12 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4600 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW18
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW18
 U 1 1 5D68FF1F
 P 5300 3900
 F 0 "SW18" H 5300 4155 50  0000 C CNN
 F 1 "SW_PUSH" H 5300 4064 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-5pinLcut" H 5300 3900 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 5300 3900 50  0001 C CNN
 F 3 "" H 5300 3900 50  0000 C CNN
 	1    5300 3900
 	1    0    0    -1  
@@ -621,7 +621,7 @@ Connection ~ 3600 3900
 Wire Wire Line
 	3600 3900 4600 3900
 $Comp
-L _reviung-kbd:SW_PUSH RESET1
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd RESET1
 U 1 1 5D69546E
 P 5100 7600
 F 0 "RESET1" H 5100 7855 50  0000 C CNN
@@ -663,7 +663,7 @@ col3
 Text GLabel 5000 1150 1    50   Input ~ 0
 col4
 $Comp
-L _reviung-kbd:8P8C J1
+L reviung34-split-L-rescue:8P8C-_reviung-kbd J1
 U 1 1 5D69CB54
 P 1350 7100
 F 0 "J1" H 1020 7104 50  0000 R CNN
@@ -733,12 +733,12 @@ Wire Wire Line
 	4800 3900 4600 3900
 Connection ~ 4600 3900
 $Comp
-L _reviung-kbd:SW_PUSH SW19
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW19
 U 1 1 5F8E142C
 P 7300 1650
 F 0 "SW19" H 7300 1905 50  0000 C CNN
 F 1 "SW_PUSH" H 7300 1814 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-NoLED" H 7300 1650 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 7300 1650 50  0001 C CNN
 F 3 "" H 7300 1650 50  0000 C CNN
 	1    7300 1650
 	1    0    0    -1  
@@ -755,12 +755,12 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7600 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW20
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW20
 U 1 1 5F8E1438
 P 8300 1650
 F 0 "SW20" H 8300 1905 50  0000 C CNN
 F 1 "SW_PUSH" H 8300 1814 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-NoLED" H 8300 1650 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 8300 1650 50  0001 C CNN
 F 3 "" H 8300 1650 50  0000 C CNN
 	1    8300 1650
 	1    0    0    -1  
@@ -777,12 +777,12 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8600 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW21
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW21
 U 1 1 5F8E1444
 P 9300 1650
 F 0 "SW21" H 9300 1905 50  0000 C CNN
 F 1 "SW_PUSH" H 9300 1814 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-NoLED" H 9300 1650 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 9300 1650 50  0001 C CNN
 F 3 "" H 9300 1650 50  0000 C CNN
 	1    9300 1650
 	1    0    0    -1  
@@ -799,12 +799,12 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9600 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW22
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW22
 U 1 1 5F8E1450
 P 10300 1650
 F 0 "SW22" H 10300 1905 50  0000 C CNN
 F 1 "SW_PUSH" H 10300 1814 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-NoLED" H 10300 1650 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 10300 1650 50  0001 C CNN
 F 3 "" H 10300 1650 50  0000 C CNN
 	1    10300 1650
 	1    0    0    -1  
@@ -821,12 +821,12 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10600
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW23
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW23
 U 1 1 5F8E1468
 P 7300 2300
 F 0 "SW23" H 7300 2555 50  0000 C CNN
 F 1 "SW_PUSH" H 7300 2464 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-NoLED" H 7300 2300 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 7300 2300 50  0001 C CNN
 F 3 "" H 7300 2300 50  0000 C CNN
 	1    7300 2300
 	1    0    0    -1  
@@ -843,12 +843,12 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7600 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW24
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW24
 U 1 1 5F8E1474
 P 8300 2300
 F 0 "SW24" H 8300 2555 50  0000 C CNN
 F 1 "SW_PUSH" H 8300 2464 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-NoLED" H 8300 2300 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 8300 2300 50  0001 C CNN
 F 3 "" H 8300 2300 50  0000 C CNN
 	1    8300 2300
 	1    0    0    -1  
@@ -865,12 +865,12 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8600 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW25
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW25
 U 1 1 5F8E1480
 P 9300 2300
 F 0 "SW25" H 9300 2555 50  0000 C CNN
 F 1 "SW_PUSH" H 9300 2464 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-NoLED" H 9300 2300 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 9300 2300 50  0001 C CNN
 F 3 "" H 9300 2300 50  0000 C CNN
 	1    9300 2300
 	1    0    0    -1  
@@ -887,12 +887,12 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9600 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW26
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW26
 U 1 1 5F8E148C
 P 10300 2300
 F 0 "SW26" H 10300 2555 50  0000 C CNN
 F 1 "SW_PUSH" H 10300 2464 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-NoLED" H 10300 2300 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 10300 2300 50  0001 C CNN
 F 3 "" H 10300 2300 50  0000 C CNN
 	1    10300 2300
 	1    0    0    -1  
@@ -920,12 +920,12 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8600 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW29
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW29
 U 1 1 5F8E14BC
 P 9300 2950
 F 0 "SW29" H 9300 3205 50  0000 C CNN
 F 1 "SW_PUSH" H 9300 3114 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-NoLED" H 9300 2950 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 9300 2950 50  0001 C CNN
 F 3 "" H 9300 2950 50  0000 C CNN
 	1    9300 2950
 	1    0    0    -1  
@@ -942,12 +942,12 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9600 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW30
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW30
 U 1 1 5F8E14C8
 P 10300 2950
 F 0 "SW30" H 10300 3205 50  0000 C CNN
 F 1 "SW_PUSH" H 10300 3114 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-NoLED" H 10300 2950 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 10300 2950 50  0001 C CNN
 F 3 "" H 10300 2950 50  0000 C CNN
 	1    10300 2950
 	1    0    0    -1  
@@ -964,12 +964,12 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10600
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW33
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW33
 U 1 1 5F8E14E0
 P 9300 3600
 F 0 "SW33" H 9300 3855 50  0000 C CNN
 F 1 "SW_PUSH" H 9300 3764 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-NoLED" H 9300 3600 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 9300 3600 50  0001 C CNN
 F 3 "" H 9300 3600 50  0000 C CNN
 	1    9300 3600
 	1    0    0    -1  
@@ -986,12 +986,12 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9600 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW34
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW34
 U 1 1 5F8E14EC
 P 10300 3600
 F 0 "SW34" H 10300 3855 50  0000 C CNN
 F 1 "SW_PUSH" H 10300 3764 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-2U-NoLED" H 10300 3600 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 10300 3600 50  0001 C CNN
 F 3 "" H 10300 3600 50  0000 C CNN
 	1    10300 3600
 	1    0    0    -1  
@@ -1087,7 +1087,7 @@ col17
 Text GLabel 10000 1150 1    50   Input ~ 0
 col18
 $Comp
-L _reviung-kbd:8P8C J2
+L reviung34-split-L-rescue:8P8C-_reviung-kbd J2
 U 1 1 5F8E5A07
 P 2650 7100
 F 0 "J2" H 2320 7104 50  0000 R CNN
@@ -1125,12 +1125,12 @@ Wire Wire Line
 Wire Wire Line
 	7000 2300 7000 2950
 $Comp
-L _reviung-kbd:SW_PUSH SW28
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW28
 U 1 1 5F8E14B0
 P 8300 2950
 F 0 "SW28" H 8300 3205 50  0000 C CNN
 F 1 "SW_PUSH" H 8300 3114 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-NoLED" H 8300 2950 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 8300 2950 50  0001 C CNN
 F 3 "" H 8300 2950 50  0000 C CNN
 	1    8300 2950
 	1    0    0    -1  
@@ -1147,12 +1147,12 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7600 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW27
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW27
 U 1 1 5F8E14A4
 P 7300 2950
 F 0 "SW27" H 7300 3205 50  0000 C CNN
 F 1 "SW_PUSH" H 7300 3114 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-NoLED" H 7300 2950 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 7300 2950 50  0001 C CNN
 F 3 "" H 7300 2950 50  0000 C CNN
 	1    7300 2950
 	1    0    0    -1  
@@ -1173,12 +1173,12 @@ Wire Wire Line
 Wire Wire Line
 	7000 2950 7000 3600
 $Comp
-L _reviung-kbd:SW_PUSH SW32
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW32
 U 1 1 5F8FB7CC
 P 8300 3600
 F 0 "SW32" H 8300 3855 50  0000 C CNN
 F 1 "SW_PUSH" H 8300 3764 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-NoLED" H 8300 3600 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 8300 3600 50  0001 C CNN
 F 3 "" H 8300 3600 50  0000 C CNN
 	1    8300 3600
 	1    0    0    -1  
@@ -1195,12 +1195,12 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7600 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW31
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW31
 U 1 1 5F8FB7D8
 P 7300 3600
 F 0 "SW31" H 7300 3855 50  0000 C CNN
 F 1 "SW_PUSH" H 7300 3764 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-1U-NoLED" H 7300 3600 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 7300 3600 50  0001 C CNN
 F 3 "" H 7300 3600 50  0000 C CNN
 	1    7300 3600
 	1    0    0    -1  
@@ -1218,12 +1218,12 @@ Connection ~ 8000 2950
 Wire Wire Line
 	6400 3900 6400 4000
 $Comp
-L _reviung-kbd:SW_PUSH SW35
+L reviung34-split-L-rescue:SW_PUSH-_reviung-kbd SW35
 U 1 1 5F8421B3
 P 6100 3900
 F 0 "SW35" H 6100 4155 50  0000 C CNN
 F 1 "SW_PUSH" H 6100 4064 50  0000 C CNN
-F 2 "_reviung-kbd:MXOnly-2U-NoLED" H 6100 3900 50  0001 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 6100 3900 50  0001 C CNN
 F 3 "" H 6100 3900 50  0000 C CNN
 	1    6100 3900
 	1    0    0    -1  
